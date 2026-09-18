@@ -1,0 +1,17 @@
+site_name: electronicspy
+site_description: A curated collection of electronics, customer sales, and financial market datasets for data analysis, statistical modeling, and machine learning research in Python.
+site_author: Diego Chumpitaz Palomino
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: default
+    primary: green
+    accent: light green
+
+nav:
+  - Home: index.md
+  - Examples: examples.md

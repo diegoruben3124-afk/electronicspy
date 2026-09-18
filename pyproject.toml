@@ -1,0 +1,62 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "electronicspy"
+version = "0.1.0"
+description = "A curated collection of electronics, customer sales, and financial market datasets sourced from Kaggle for data analysis, statistical modeling, machine learning research, and more, including electronics product data, customer purchase behavior and demographics, sales transactions, product types, and historical stock prices for Samsung Electronics."
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Diego Chumpitaz Palomino", email = "diegoruben3124@gmail.com" }
+]
+maintainers = [
+    { name = "Diego Chumpitaz Palomino", email = "diegoruben3124@gmail.com" }
+]
+requires-python = ">=3.8"
+keywords = [
+    "electronics",
+    "electronic products",
+    "datasets",
+    "sales",
+    "customer behavior",
+    "purchase behavior",
+    "consumer data",
+    "customer demographics",
+    "transactions",
+    "product types",
+    "retail",
+    "e-commerce",
+    "sales analysis",
+    "financial data",
+    "stock prices",
+    "stock market",
+    "Samsung Electronics",
+    "historical stock data",
+    "financial analysis",
+    "stock forecasting",
+    "trend analysis",
+    "data science",
+    "statistics",
+    "machine learning",
+    "data analysis",
+    "research"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Education",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.14",
+    "Operating System :: OS Independent",
+    "Natural Language :: English"
+]
+dependencies = [
+    "pandas>=1.5"
+]
