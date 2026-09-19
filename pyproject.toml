@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "electronicspy"
-version = "0.1.0"
+version = "0.1.1"
 description = "A curated collection of electronics, customer sales, and financial market datasets sourced from Kaggle for data analysis, statistical modeling, machine learning research, and more, including electronics product data, customer purchase behavior and demographics, sales transactions, product types, and historical stock prices for Samsung Electronics."
 readme = "README.md"
 license = { file = "LICENSE" }

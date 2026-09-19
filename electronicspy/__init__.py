@@ -3,7 +3,7 @@ electronicspy
 A Python package providing electronics and consumer-technology datasets in CSV format from curated Kaggle datasets.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .core import load_dataset, list_datasets, describe
 from .datasets import DATASETS

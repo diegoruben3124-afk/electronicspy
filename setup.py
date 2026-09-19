@@ -8,7 +8,7 @@ with open(os.path.join(this_directory, "README.md"), encoding="utf-8") as f:
 
 setup(
     name="electronicspy",
-    version="0.1.0",
+    version="0.1.1",
     author="Diego Chumpitaz Palomino",
     author_email="diegoruben3124@gmail.com",
     description=(
